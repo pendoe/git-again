@@ -1,0 +1,26 @@
+#upper-div{
+    box-shadow: 0px 0px 1px black;
+    text-align: center;
+    height: 250px;
+}
+/* 
+#upper-main{
+    
+} */
+
+#box-1{
+    background-color: blue;
+    padding:10px;
+    color: white;
+    text-decoration: none;
+    font-size:  20px;
+    margin-right: 25px;
+}
+
+#box-2{
+    padding:10px;
+    text-decoration: none;
+    border: 0.01px solid blue;
+    color: blue;
+    font-size: 20px;
+}
